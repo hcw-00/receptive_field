@@ -23,6 +23,7 @@ vgg_16                         | 224        | vgg_16/conv3/conv3_2 | 14.987     
 vgg_16                         | 224        | vgg_16/pool3         | 18.688          | 44   | 8                | 18
 vgg_16                         | 224        | vgg_16/conv4/conv4_1 | 20.538          | 60   | 8                | 26
 vgg_16                         | 224        | vgg_16/conv4/conv4_2 | 24.238          | 76   | 8                | 34
+vgg_16                         | 224        | vgg_16/conv4/conv4_3 | added by hcw    | 92   | 8                | 42
 vgg_16                         | 224        | vgg_16/pool4         | 27.938          | 100  | 16               | 42
 vgg_16                         | 224        | vgg_16/conv5/conv5_1 | 28.863          | 132  | 16               | 58
 vgg_16                         | 224        | vgg_16/conv5/conv5_2 | 29.788          | 164  | 16               | 74
